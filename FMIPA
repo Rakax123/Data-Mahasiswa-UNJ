@@ -1,1 +1,3 @@
 print("raka jago banget")
+a <- rnorm(100)
+hist(a)
